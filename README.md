@@ -98,3 +98,9 @@ Possibility of customised offerings of services and promotional efforts based on
 
 I would like to thank [Thimo Wellner] and [Juan Bavaresco] for their guidance and support throughout this project. Additionally, I appreciate the use of the [Travel Tide customer](postgres://Test:bQNxVzJL4g6u@ep-noisy-flower-846766.us-east-2.aws.neon.tech/TravelTide).
 
+## Contact
+
+For any questions or feedback, please contact:
+- Name: Apurva Daoo
+- Email: apoorva.daoo@gmail.com
+- LinkedIn: [Apurva Daoo](<https://www.linkedin.com/in/apurva-daoo>)
